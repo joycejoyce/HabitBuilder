@@ -43,7 +43,7 @@
   "dependencies": {
     "aws-amplify": "^3.3.3",
     "aws-cli-js": "^2.0.6",
-    "aws-sdk": "^2.738.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
